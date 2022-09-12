@@ -1,2 +1,3 @@
 This is my first line
 adding line 2
+lin3 added
