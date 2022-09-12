@@ -1,1 +1,2 @@
 This is second file using cat command
+changes made in master
